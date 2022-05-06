@@ -45,8 +45,15 @@
 
 * **활동보고서 6차**
 	* **'SmartHome'**  진행 과정 3차 설명
+	* **'SmartHome'**  프로젝트 Application 제작 화면
+
+![img_03](/images/app_display2.png)
 
 **2021-06-12**
 
 * **스마트홈 프로젝트 결과 보고서_20210612**
 	* **SmartHome** 완성 후 소개 및 시동
+	* **SmartHome** 작품 요약
+
+![img_04](/images/result_21061201.png)
+![img_05](/images/result_21061202.png)
