@@ -29,6 +29,7 @@
 	* 사용하는 센서 학습 및 소개 - **'3-빛 감지, 가습기, 카메라'**
 	* **'SmartHome'**  진행 과정 1차 설명
 	* **'SmartHome'**  프로젝트 전반적인 구상도
+
 ![img_01](/images/drawing_smarthome.png)
 
 **2021-05-22**
@@ -37,6 +38,7 @@
 	* 사용하는 센서 학습 및 소개 - **'4-미세먼지센서'**
 	* **'SmartHome'**  진행 과정 2차 설명
 	* **'SmartHome'**  프로젝트 Application 구상도
+
 ![img_02](/images/app_display.png)
 
 **2021-05-29**
