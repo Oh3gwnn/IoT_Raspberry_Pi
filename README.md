@@ -55,5 +55,5 @@
 	* **SmartHome** 완성 후 소개 및 시동
 	* **SmartHome** 작품 요약
 
-![img_04](/images/result_21061201.png)
-![img_05](/images/result_21061202.png)
+![img_04](/images/result_2106121.png)
+![img_05](/images/result_2106122.png)
